@@ -8,8 +8,9 @@ Lang Zolyn (30719704) zlan0007@student.monash.edu
 Bryan Chow Wei Ming (31925189) bcho0024@student.monash.edu
 
 1) How to get our submission to run
+
 Since our proposed idea is an application, the software we would be using for this submission is Android Studio, which consists of code in Java programming language.
-To run our submission, just download the submission file and locate the file in Android Studio. After that, click the green play button on the top bar, it will then launch the application through the device emulator, or which device you have connected it to. The device/emulator should be running Android 10.0 with an API level of 29. After the app has launched, you can just treat it as a normal application which you have downloaded on your device, and navigate through it. Do note that this is just a prototype and some features are not fully developed. Enjoy!
+To run our submission, just download the submission zip file, extract the file inside and locate the file in Android Studio. After that, click the green play button on the top bar, it will then launch the application through the device emulator, or which device you have connected it to. The device/emulator should be running Android 10.0 with an API level of 29. After the app has launched, you can just treat it as a normal application which you have downloaded on your device, and navigate through it. Do note that this is just a prototype and some features are not fully developed. Enjoy!
 
 2) Theme Selected
 The theme selected for this submission is MENTAL HEALTH.
