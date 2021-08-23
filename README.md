@@ -2,10 +2,10 @@
 README
 
 Team member details:
-George Tan Juan Sheng (30884128) gtan0021@student.monash.edu
-Vanessa Khoo Ming Yi (31417493) vkhoo0007@student.monash.edu
-Lang Zolyn (30719704) zlan0007@student.monash.edu
-Bryan Chow Wei Ming (31925189) bcho0024@student.monash.edu
+George Tan Juan Sheng 
+Vanessa Khoo Ming Yi 
+Lang Zolyn 
+Bryan Chow Wei Ming 
 
 1) How to get our submission to run
 
