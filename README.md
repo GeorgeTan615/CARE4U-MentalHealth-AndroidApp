@@ -2,9 +2,9 @@
 README
 
 Team member details:
-George Tan Juan Sheng 
-Vanessa Khoo Ming Yi 
-Lang Zolyn 
+George Tan Juan Sheng, 
+Vanessa Khoo Ming Yi, 
+Lang Zolyn, 
 Bryan Chow Wei Ming 
 
 1) How to get our submission to run
