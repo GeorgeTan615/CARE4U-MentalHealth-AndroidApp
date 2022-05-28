@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera.ar"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".mainpages.Profile"></activity>
+        <activity android:name=".Befrienders" />
+        <activity android:name=".tabung.TabungDetails" />
+        <activity android:name=".tabung.Ecert" />
+        <activity android:name=".volunteer.ApplicationStatus" />
+        <activity android:name=".tabung.ThankYou_donation" />
+        <activity android:name=".volunteer.VolunteerGuidelines" />
+        <activity android:name=".disoperience.Dis_bipolarDisorder" />
+        <activity android:name=".disoperience.Dis_charlesBonnet" />
+        <activity android:name=".disoperience.Dis_schizophrenia" />
+        <activity android:name=".disoperience.Disoperience" />
+        <activity android:name=".ChatWithChad" />
+        <activity android:name=".OnlineSupport" />
+        <activity android:name=".games.SongPlayer" />
+        <activity android:name=".DiagnosticTool" />
+        <activity android:name=".careercloud.CareerCloud" />
+        <activity android:name=".volunteer.VolunteeringOpportunities" />
+        <activity android:name=".games.MemoryGame" />
+        <activity android:name=".games.ChessGame" />
+        <activity android:name=".BrainExercise" />
+        <activity android:name=".mainpages.MainPage" />
+        <activity android:name=".Mainpage" />
+        <activity android:name=".mainpages.OnBoardingPage" />
+        <activity android:name=".mainpages.Register" />
+        <activity android:name=".tabung.Tabung" />
+        <activity android:name=".tabung.Donation" />
+        <activity android:name=".mainpages.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.ar.core"
+            android:value="required" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

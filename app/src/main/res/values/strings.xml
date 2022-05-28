@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CARE4U</string>
+    <string-array name="mental_issue_array">
+        <item>Anxiety disorders</item>
+        <item>Behavioural and emotional disorders in children</item>
+        <item>Bipolar affective disorder</item>
+        <item>Depression</item>
+        <item>Dissociation and dissociative disorders</item>
+        <item>Eating disorders</item>
+        <item>Obsessive compulsive disorder</item>
+        <item>Paranoia</item>
+        <item>Post-traumatic stress disorder</item>
+        <item>Psychosis</item>
+        <item>Schizophrenia</item>
+        <item>I have no mental issues</item>
+    </string-array>
+</resources>
