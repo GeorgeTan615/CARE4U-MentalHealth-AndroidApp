@@ -1,14 +1,14 @@
 # CARE4U Mobile Application for Mental Health Issues
 
-1) How to get our submission to run
+## How to get our submission to run
 
 Since our proposed idea is an application, the software we would be using for this submission is Android Studio, which consists of code in Java programming language.
 To run our submission, just download the submission zip file, extract the file inside and locate the file in Android Studio. After that, click the green play button on the top bar, it will then launch the application through the device emulator, or which device you have connected it to. The device/emulator should be running Android 10.0 with an API level of 29. After the app has launched, you can just treat it as a normal application which you have downloaded on your device, and navigate through it. Do note that this is just a prototype and some features are not fully developed. Enjoy!
 
-2) Theme Selected
+## Theme Selected
 The theme selected for this submission is MENTAL HEALTH.
 
-3) Project background (purpose, users, use)
+## Project background (purpose, users, use)
 Purpose:
 The purpose of the CARE4U project is to provide help to mental health patients, increase awareness of mental health issues and build a community for mentally ill patients. 
 
