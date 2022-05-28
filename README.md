@@ -1,11 +1,4 @@
-# QuickHack2021
-README
-
-Team member details:
-George Tan Juan Sheng, 
-Vanessa Khoo Ming Yi, 
-Lang Zolyn, 
-Bryan Chow Wei Ming 
+# CARE4U Mobile Application for Mental Health Issues
 
 1) How to get our submission to run
 
